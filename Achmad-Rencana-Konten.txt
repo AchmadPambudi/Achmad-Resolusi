@@ -3,7 +3,11 @@ RENCANA KONTEN ACHMAD
 - Trik Komputer
   * Software
   * Hardware
+    ^ Rakit Komputer
+    ^ Service Komputer
 - Trik Edit Video
 - Trik Office
+  ^Belajar Excel
 - Trik Desain
 - Vlog
+- Website
