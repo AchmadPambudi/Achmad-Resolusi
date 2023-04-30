@@ -4,6 +4,7 @@ RENCANA KONTEN ACHMAD
   * Software
   * Hardware
     ^ Rakit Komputer
+    ^ Service Komputer
 - Trik Edit Video
 - Trik Office
   ^Belajar Excel
