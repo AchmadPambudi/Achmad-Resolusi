@@ -4,8 +4,10 @@ RENCANA KONTEN ACHMAD
   * Software
   * Hardware
     ^ Rakit Komputer
-    ^ Jaringan Komputer
+    ^ Service Komputer
+- Trik Edit Video
 - Trik Office
-  ^ Belajar Excel
+  ^Belajar Excel
 - Trik Desain
 - Vlog
+- Website
