@@ -1,2 +1,2 @@
 # Achmad-Resolusi
-Repository untuk menyimpan rencana Achmad Kedepannya
+AYO ANAK-ANAK JANGAN MAGER
